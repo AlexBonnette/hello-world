@@ -1,2 +1,5 @@
 # hello-world
-Tutorial &amp; Experimental Repository
+Tutorial & Experimental Repository
+
+This file editing is entirely for the purpose of learning how to utilize GitHub.
+
